@@ -11,6 +11,8 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Git repo test");
+            Class2 cls = new Class2 { id = 100, name = "mohan" };
+
         }
     }
 }
